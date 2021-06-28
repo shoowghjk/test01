@@ -9,5 +9,7 @@
 </head>
 <body>
 	GIT 연습!!
+	
+	GIT 연습2!!
 </body>
 </html>
