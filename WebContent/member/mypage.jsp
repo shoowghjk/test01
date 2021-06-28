@@ -8,6 +8,7 @@
 <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
 </head>
 <body>
-
+	여기가 마이페이지
+	새롭게 시도한 마이페이지
 </body>
 </html>
